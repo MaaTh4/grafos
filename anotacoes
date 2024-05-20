@@ -1,0 +1,18 @@
+circlo- inicio/fim
+quadrado-ação/processo
+losango- teste condicional
+trapezio= emitir dados
+
+-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-==-=-=-
+
+Dado G=(V,E), O Big-O do grafo é O(V+E)
+
+Notação Omega: complexidade no melhor caso, da um limite inferior para o tempo de execução
+
+Notação Teta: complexidade no caso médio
+
+=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=
+
+Grafo direcionado
+
+nesse grafo as rarestas tem direcao especifica, relacao unidirecional entre os vertices. A conexao entre entre dois vertices tem uma direcao definida, vertice de origem para o vertice de destino
